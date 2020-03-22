@@ -1,0 +1,16 @@
+PODS:
+  - YwfUtil (0.1.0)
+
+DEPENDENCIES:
+  - YwfUtil (from `../`)
+
+EXTERNAL SOURCES:
+  YwfUtil:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YwfUtil: 3ef791916b63da89b324ad5d7672cefaebb8d23e
+
+PODFILE CHECKSUM: 807cadd3a66a341fb59e4b76c535488dc39bb4e0
+
+COCOAPODS: 1.9.1

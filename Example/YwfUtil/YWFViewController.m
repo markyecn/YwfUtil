@@ -7,6 +7,7 @@
 //
 
 #import "YWFViewController.h"
+#import "LogUtil.h"
 
 @interface YWFViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [LogUtil logString:@"哈哈哈哈"];
 }
 
 - (void)didReceiveMemoryWarning
